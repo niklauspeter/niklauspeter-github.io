@@ -1,0 +1,14 @@
+h1 {
+  color : blue;
+  border : 4px black;
+}
+img {
+  float: right;
+}
+h3{
+  font-size: 17px;
+}
+h2{
+  font size: 17px;
+  border-bottom: 4px black;
+}
