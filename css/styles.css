@@ -39,3 +39,8 @@ Body{
 .altcol{
   color: blue;
 }
+.add{
+  width: 300px;
+  float: left ;
+  background-color: blue;
+}
