@@ -24,10 +24,18 @@ Body{
   font-family:serif;
 }
 .content{
-  margin:0px;
+  margin:4px;
+  width 360px;
+
 }
 .list{
   width: 300px;
   float : right;
   background-color: yellow;
+}
+.color{
+  color: red;
+}
+.altcol{
+  color: blue;
 }
