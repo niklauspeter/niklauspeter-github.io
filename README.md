@@ -13,7 +13,7 @@ The system currenly doesn't experience any known bugs.
 ## Technologies Used
 HTML is the primary coding language used in the creation of this website.
 ## Support and contact details
-For any enquiries contact our help desk at : 073578293.
+For any enquiries contact our help desk at :073578293.
 ### License
 *Determine the license under which this application can be used.  See below for more details on licensing.*
 Copyright (c) 2019 **moringa school**
