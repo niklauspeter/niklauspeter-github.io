@@ -28,6 +28,6 @@ Body{
 }
 .list{
   width: 300px;
-  float:right;
+  float : right;
   background-color: yellow;
 }
