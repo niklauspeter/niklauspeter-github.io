@@ -4,7 +4,7 @@
 ## Description
 The application is a website intended solely as an introduction to web development using HTML.
 ## Setup/Installation Requirements
-* set the webs URL in your browsers or current search engine
+* set the webs URL https://github.com/niklauspeter/niklauspeter.github.io in your browsers or current search engine.
 * once the website is up navigate freely
 
 The code doesn't currently need a database nor does it depend on any application to run.
