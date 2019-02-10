@@ -1,9 +1,17 @@
 h1 {
+  border-bottom:1px solid #000;
   color : blue;
   border : 4px black;
 }
 img {
+  width : 270px;
   float: right;
+  padding: 17px;
+  margin-left: 20px;
+  border-top: 1px solid #000;
+  border-right: 1px solid #000;
+  border-left: 1px solid #000;
+  border-bottom:1px solid #000;
 }
 h3{
   font-size: 17px;
@@ -11,4 +19,15 @@ h3{
 h2{
   font size: 17px;
   border-bottom: 4px black;
+}
+Body{
+  font-family:serif;
+}
+.content{
+  margin:0px;
+}
+.list{
+  width: 300px;
+  float:right;
+  background-color: yellow;
 }
